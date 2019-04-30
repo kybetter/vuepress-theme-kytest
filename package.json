@@ -1,6 +1,6 @@
 {
-  "name": "vuepress-theme-kytest",
-  "version": "1.0.0",
+  "name": "@kybetter/vuepress-theme-kyscopetest",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/kybetter/vuepress-theme-kytest.git",
   "author": "zhaoliang <kybetter@163.com>",
